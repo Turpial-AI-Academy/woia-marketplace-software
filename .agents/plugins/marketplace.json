@@ -3,5 +3,396 @@
   "interface": {
     "displayName": "WOIA Software"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "woia-core",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-core-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-discovery",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-discovery-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-business-rules",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-business-rules-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-requirements",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-requirements-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-ux-ui",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-ux-ui-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-stack",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-stack-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-architecture",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-architecture-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-technical-design",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-technical-design-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-development-conventions",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-development-conventions-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-planning",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-planning-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-repository-environment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-repository-environment-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-cicd",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-cicd-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-specs",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-specs-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-tasks",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-tasks-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-development-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-code-review",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-code-review-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-testing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-testing-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-git-integration",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-git-integration-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-repository-hygiene",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-repository-hygiene-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-release-qa",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-release-qa-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-security-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Security"
+    },
+    {
+      "name": "woia-software-release-preparation",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-release-preparation-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-observability",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-observability-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-documentation",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-documentation-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-deployment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-deployment-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-delivery-sandbox",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-delivery-sandbox-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-software-windows-app-trust",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-software-windows-app-trust-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Security"
+    },
+    {
+      "name": "woia-chatgpt-project-bridge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-chatgpt-project-bridge-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-comfyui-local",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-comfyui-local-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }
