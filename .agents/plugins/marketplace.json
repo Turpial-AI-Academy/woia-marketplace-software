@@ -386,7 +386,59 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-comfyui-local-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.2"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-documents",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-documents-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-organization-knowledge",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-organization-knowledge-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-data-governance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-data-governance-agent-plugin.git",
+        "ref": "v0.5.0"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "woia-re-domain-contracts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Turpial-AI-Academy/woia-re-domain-contracts-agent-plugin.git",
+        "ref": "v0.5.0"
       },
       "policy": {
         "installation": "AVAILABLE",
