@@ -9,7 +9,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-core-agent-plugin.git",
-        "ref": "v0.5.3"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -22,7 +22,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -35,7 +35,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-discovery-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -48,7 +48,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-business-rules-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -61,7 +61,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-requirements-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -74,7 +74,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-ux-ui-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -87,7 +87,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-stack-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -100,7 +100,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-architecture-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -113,7 +113,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-technical-design-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -126,7 +126,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-development-conventions-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -139,7 +139,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-planning-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -152,7 +152,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-repository-environment-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -165,7 +165,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-cicd-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -178,7 +178,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-specs-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -191,7 +191,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-tasks-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -204,7 +204,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-development-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -217,7 +217,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-code-review-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -230,7 +230,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-testing-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -243,7 +243,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-git-integration-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -256,7 +256,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-repository-hygiene-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -269,7 +269,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-release-qa-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -282,7 +282,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-security-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -295,7 +295,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-release-preparation-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -308,7 +308,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-observability-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -321,7 +321,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-documentation-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -334,7 +334,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-deployment-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -347,7 +347,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-delivery-sandbox-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -360,7 +360,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-software-windows-app-trust-agent-plugin.git",
-        "ref": "v0.5.1"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -373,7 +373,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-chatgpt-project-bridge-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -386,7 +386,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-comfyui-local-agent-plugin.git",
-        "ref": "v0.5.2"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -399,7 +399,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-documents-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -412,7 +412,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-organization-knowledge-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -425,7 +425,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-data-governance-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
@@ -438,7 +438,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Turpial-AI-Academy/woia-re-domain-contracts-agent-plugin.git",
-        "ref": "v0.5.0"
+        "ref": "v0.5.7"
       },
       "policy": {
         "installation": "AVAILABLE",
